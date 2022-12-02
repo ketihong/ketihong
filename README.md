@@ -14,5 +14,3 @@
 - reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
 ## 분류
----
-Seminar & Conference
